@@ -1,0 +1,10 @@
+C:\Users\sansingh28\Project\AZURE+NET\MultiThreading\ConsoleApp1\bin\Debug\netcoreapp3.1\MultiThreadConcepts.exe
+C:\Users\sansingh28\Project\AZURE+NET\MultiThreading\ConsoleApp1\bin\Debug\netcoreapp3.1\MultiThreadConcepts.deps.json
+C:\Users\sansingh28\Project\AZURE+NET\MultiThreading\ConsoleApp1\bin\Debug\netcoreapp3.1\MultiThreadConcepts.runtimeconfig.json
+C:\Users\sansingh28\Project\AZURE+NET\MultiThreading\ConsoleApp1\bin\Debug\netcoreapp3.1\MultiThreadConcepts.runtimeconfig.dev.json
+C:\Users\sansingh28\Project\AZURE+NET\MultiThreading\ConsoleApp1\bin\Debug\netcoreapp3.1\MultiThreadConcepts.dll
+C:\Users\sansingh28\Project\AZURE+NET\MultiThreading\ConsoleApp1\bin\Debug\netcoreapp3.1\MultiThreadConcepts.pdb
+C:\Users\sansingh28\Project\AZURE+NET\MultiThreading\ConsoleApp1\obj\Debug\netcoreapp3.1\MultiThreadConcepts.AssemblyInfoInputs.cache
+C:\Users\sansingh28\Project\AZURE+NET\MultiThreading\ConsoleApp1\obj\Debug\netcoreapp3.1\MultiThreadConcepts.AssemblyInfo.cs
+C:\Users\sansingh28\Project\AZURE+NET\MultiThreading\ConsoleApp1\obj\Debug\netcoreapp3.1\MultiThreadConcepts.dll
+C:\Users\sansingh28\Project\AZURE+NET\MultiThreading\ConsoleApp1\obj\Debug\netcoreapp3.1\MultiThreadConcepts.pdb
